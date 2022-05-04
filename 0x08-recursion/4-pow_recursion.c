@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _pow_recursion - main - check the code
  * @x: number
