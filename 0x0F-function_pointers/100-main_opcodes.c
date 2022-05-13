@@ -46,4 +46,4 @@ exit(2);
 }
 print_opcodes((char *)&main, n);
 return (0);
-}
+{
