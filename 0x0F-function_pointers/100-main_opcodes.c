@@ -19,7 +19,8 @@ if (i < n - 1)
 printf(" ");
 }
 printf("\n");
-{
+
+}
 
 /**
  * main - prints the opcodes of its own main function
